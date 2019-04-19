@@ -4,7 +4,7 @@
 - 2, Create a folder outside the project with name ```data``` and copy the dataset
 - 3, Run the scipt ```main.py```
 - 4, The segmentation results are saved in ```./predict_nii_gz_result```
-- 5, The diagnosis result are saved in ```./diagnose_result.txt```
+- 5, The diagnosis results are saved in ```./diagnose_result.txt```
 ## Evaluation score
-- 1, Submit the segmentation result ```./predict_nii_gz_result``` to the [online evaluation website](https://acdc.creatis.insa-lyon.fr/#challenges) and get the segmentation score
-- 2, Submit the diagnosis result ```./diagnose_result.txt``` to the [online evaluation website](https://acdc.creatis.insa-lyon.fr/#challenges) and get the diagnose score
+- 1, Submit the segmentation results ```./predict_nii_gz_result``` to the [online evaluation website](https://acdc.creatis.insa-lyon.fr/#challenges) and get the segmentation score
+- 2, Submit the diagnosis results ```./diagnose_result.txt``` to the [online evaluation website](https://acdc.creatis.insa-lyon.fr/#challenges) and get the diagnose score
