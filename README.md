@@ -1,4 +1,4 @@
-# Residual Convolutional Neural Network and Bidirectional-Convolutional LSTM for Automated Cardiac Segmentation and Diagnosis
+# Automated-Cardiac-Segmentation-and-Diagnosis
 ## Step
 - 1, Register and download ACDC-2017 dataset from [https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html](https://www.creatis.insa-lyon.fr/Challenge/acdc/index.html)
 - 2, Create a folder outside the project with name ```data``` and copy the dataset
